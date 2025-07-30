@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dudugan
-- 👀 I’m interested in linguistics and the four As: animals, aliens, artificial intelligence, and ancient people.
+- 👀 I’m a sophomore-and-a-half at Yale interested in linguistics and the four As: animals, aliens, artificial intelligence, and ancient people.
 - 🖌️ I also love to write long-form fiction, alternative rnb songs & film scores, and code. 
 - 🌱 Check my website at [dudugan.github.io](https://dudugan.github.io/).
 
